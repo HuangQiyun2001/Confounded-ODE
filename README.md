@@ -1,7 +1,7 @@
 # README
 
 ## Overview  
-This repository contains the implementation, simulation studies, and empirical applications accompanying the paper **Confounded Ordinary Differential Equation**.  
+This repository contains the implementation, simulation studies, and empirical applications accompanying the paper **High-dimensional Confounded Ordinary Differential Equation**.  
 The project is organized into two main components:  
 
 1. **Simulation**: Codes and results for numerical simulation experiments.  
